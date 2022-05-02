@@ -1,0 +1,36 @@
+*{
+  /* border: solid; */
+}
+
+body{
+  color: brown;
+}
+
+#headerP{
+  border: solid; 
+  border-color:rgb(23, 211, 80);
+}
+
+header{
+  border: solid; 
+  border-color:blue;
+}
+
+.item{
+  border: solid;
+  border-color: blueviolet;
+}
+
+.item img{
+  width: 300px;
+  opacity: 0.5;
+}
+
+.item img:hover{
+  width: 600px;
+  opacity: 1;
+}
+
+h1{
+  color: aqua;
+}
